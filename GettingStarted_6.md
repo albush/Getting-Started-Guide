@@ -2,14 +2,13 @@
 
 # Milestone 6: First Invoice
 
-At 30 Days the customer will receive their first cloud invoice. It's important to follow-up with the customer to see if there are any questions about the invoice.
+After 30 Days, you will receive your first cloud invoice. If you have any questions with your first invoice, contact your Launch Manager
 
-## Example issues might be:
+## Notes about billing
 
-* Bandwidth charges & Support costs
-* Ensure customer understands $50 for MI and $500 for MO is just a minimum and not a flat fee
-* Discuss storage fees where applicable
-
-## Proactive Initiatives
-
-* 30 days is a good time to run a Discovery Report
+* Cloud servers are billed at an hourly rate until they are deleted from the account
+* Managed Infrastructure accounts have a $50 minimum support fee
+* Managed Operations: SysOps accounts have a $500 minimum support fee
+* Your monthly invoices will be available via your [MyCloud](https://mycloud.rackspace.com) Control panel (for security, we will not email you a copy of your invoice)
+* You can get a more detailed report by [downloading the invoice as a CSV](https://community.rackspace.com/products/f/25/t/4950).
+* You can view an estimation of your current charges in the Current Usage page of the MyCloud control panel (Account > Usage Overview)

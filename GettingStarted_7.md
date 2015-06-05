@@ -2,22 +2,15 @@
 
 # Milestone 7: Graduation Date
 
-With the customer's Graduation Date (at day 60) they move from Team D0 to their long term support team, the following needs to take place:
+After the first 60 days, you will graduate from our Cloud Launch Program. Our Launch Managers will hand you off to our main support and account teams, which will continue to work with you as long as you are our customer.
 
-## Conduct warm handoff
-
-* For MO customers go to team D3-4
-* For MI customers go to team D4-2
+We also recommend that you take this opportunity to double check all of your backup and monitoring configurations.
 
 ## Monitoring Review
 
-Make sure there are URL checks for all the customer's primary domains. This is important should the customer's site go offline, support will be notified
+Make sure there are URL checks for all of your primary domains. Make sure you know the instant anything happens.
 
 ## Complete full Backups Review
 
 * Web servers, DB servers, CBS,etc.
-* Ensure customer understands costs & risks of not having backups
-
-## Golden Image
-
-* Golden image is a manual image of a server. When a server is deleted, all automated backups and content associated with that server is also deleted. Only manual images are kept
+* Remember, a plan is just a hunch unless you test it. Run a fire drill to practice getting your app back online in the event of an event or a maintenance window.
