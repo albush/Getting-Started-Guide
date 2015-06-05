@@ -29,4 +29,4 @@ We invite you to join a call with one of our Launch Managers. They are available
 
 We will cover all of these topics and more in the remaining milestones.
 
-<< [7 Customer Milestones](getting_started_master_article.md) | [Milestone 2 - Building your application on Rackspace](GettingStarted_2.md) >>
+[<< 7 Customer Milestones](getting_started_master_article.md) | [Milestone 2 - Building your application on Rackspace >>](GettingStarted_2.md)

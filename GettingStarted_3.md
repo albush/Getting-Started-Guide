@@ -35,4 +35,4 @@ Once everything is tested, it's time for launch. The actual switch will vary bas
 
 
 
-<< [7 Customer Milestones](getting_started_master_article.md) | [Milestone 4 - High traffic events](GettingStarted_4.md) >>
+[<< 7 Customer Milestones](getting_started_master_article.md) | [Milestone 4 - High traffic events >>](GettingStarted_4.md)

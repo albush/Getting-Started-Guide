@@ -8,3 +8,5 @@ To best communicate their notes, we have broken the list down into sections base
 [Milestone 5 - Steady state](GettingStarted_5.md)  
 [Milestone 6 - Billing cycles](GettingStarted_6.md)  
 [Milestone 7 - Graduation to main support](GettingStarted_7.md)
+
+[Milestone 1 - Welcome to Rackspace! >>](GettingStarted_1.md)

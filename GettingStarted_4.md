@@ -29,3 +29,6 @@ We always recommend testing, but testing becomes more important as you scale up 
 * Serve static files from the [Rackspace CDN](http://www.rackspace.com/cloud/cdn-content-delivery-network) to [improve performance and load speeds](https://youtu.be/XVH7uVHBiE8)
 * Introduce one or more caching layers within your configuration
 * Use a third party tool such as CloudFlare or Incapsula to cache and optimize your web content at the DNS level
+
+
+[<< 7 Customer Milestones](getting_started_master_article.md) | [Milestone 5 - Steady state >>](GettingStarted_5.md)

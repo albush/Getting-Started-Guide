@@ -97,4 +97,4 @@ Monitoring can alert you if your site becomes non-responsive.  Customers with ou
 * URL Check: [Add a Cloud Monitoring check](http://www.rackspace.com/knowledge_center/article/creating-a-monitoring-check-using-the-cloud-control-panel) for your site's URL to ensure your site is responding
 * New Relic: Sign up for a free New Relic account at http://newrelic.com/rackspace Install New Relic's server and application monitoring agents on your cloud servers
 
-<< [7 Customer Milestones](getting_started_master_article.md) | [Milestone 3 - Building your application on Rackspace](GettingStarted_3.md) >>
+[<< 7 Customer Milestones](getting_started_master_article.md) | [Milestone 3 - Building your application on Rackspace >>](GettingStarted_3.md)
