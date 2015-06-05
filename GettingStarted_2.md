@@ -4,13 +4,13 @@
 
 After you've signed up and spoken with our Launch Team, you'll be ready to jump in and start building your application. Here are a few resources that might be helpful:
 
-## Control Panel <!-- do we have a recording of a CP Walkthrough? Should we? -->
+## Control Panel  
 
 * [Cloud Control Panel](http://www.rackspace.com/knowledge_center/article/introducing-the-rackspace-cloud-control-panel) - This is your control panel to manage your cloud infrastructure.
 * [Use Role Based Access Control](http://www.rackspace.com/knowledge_center/article/overview-role-based-access-control-rbac) (RBAC) to allow the correct stakeholder access to only the services he or she needs to access.
 
 
-## Migration Teams
+## Migration assistance
 
 If your application is already live at another provider, we can potentially offer some limited [help migrating from another hosting provider to Rackspace](https://www.rackspace.com/migration). We also work with some professional services partners who can provide additional help. Contact your Launch Manager or Account Team for more information.
 

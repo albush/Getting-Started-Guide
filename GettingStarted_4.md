@@ -30,5 +30,8 @@ We always recommend testing, but testing becomes more important as you scale up 
 * Introduce one or more caching layers within your configuration
 * Use a third party tool such as CloudFlare or Incapsula to cache and optimize your web content at the DNS level
 
+## If anything goes wrong
+
+The old saying is that the best offense is a good defense, so we highly recommend that you contact Rackspace early, as soon as you know about an upcoming event. This will allow us to work with you to develop a plan for addressing any issues that might come up. Let us know when the event is scheduled, who will be your primary point of contact, how to get in touch with that person, etc. The more we know ahead of time, the better. If anything does go wrong, call support immediately - we'll be much better able to address the issue if you're on the phone, than if we're trying to figure out who you are based on your angry tweet. 
 
 [<< 7 Customer Milestones](getting_started_master_article.md) | [Milestone 5 - Steady state >>](GettingStarted_5.md)
