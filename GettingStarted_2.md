@@ -1,8 +1,4 @@
-Title: Getting started with Rackspace - a timeline of your experience as a Rackspace Cloud Customer
-Author: Bill Hertzing and Justin Kase; Edited by Alan Bush
-Date: Friday 2015-06-05
-
-*We recently asked our [Cloud Launch Team](http://www.rackspace.com/blog/an-insiders-look-at-the-cloud-launch-team/) to provide us with a checklist of all of the most pertinent information that they try to convey to their customers. This article represents just one of seven milestones identified by the Launch Team.*
+*We recently asked our [Cloud Launch Team](http://www.rackspace.com/blog/an-insiders-look-at-the-cloud-launch-team/) to provide us with a checklist of all of the most pertinent information that they try to convey to their customers. This article represents just one of [seven milestones](getting_started_master_article.md) identified by the Launch Team.*
 
 # Milestone 2: Building your application on Rackspace
 
@@ -101,4 +97,4 @@ Monitoring can alert you if your site becomes non-responsive.  Customers with ou
 * URL Check: [Add a Cloud Monitoring check](http://www.rackspace.com/knowledge_center/article/creating-a-monitoring-check-using-the-cloud-control-panel) for your site's URL to ensure your site is responding
 * New Relic: Sign up for a free New Relic account at http://newrelic.com/rackspace Install New Relic's server and application monitoring agents on your cloud servers
 
-<< 7 Customer Milestones | Milestone 3 - Building your application on Rackspace >>
+<< [7 Customer Milestones](getting_started_master_article.md) | [Milestone 3 - Building your application on Rackspace](GettingStarted_3.md) >>
