@@ -6,10 +6,8 @@ After the first 60 days, you will graduate from our Cloud Launch Program. Our La
 
 We also recommend that you take this opportunity to double check all of your backup and monitoring configurations.
 
-## Monitoring Review
+## Account review
 
-Make sure there are URL checks for all of your primary domains. Make sure you know the instant anything happens.
+We also want to review your account with you, and make sure that we have everything covered. We can use a discovery tool to make sure your servers are all up to date and patched, explore any potential security issues that might have come up, and offer additional suggestions on improving your appliation architecture.
 
-## Complete full Backups Review
-
-* Web servers, DB servers, CBS,etc.
+Account reviews are not only offered every 60 days, we're happy to take the time to review your account with you any time. We have found that Launch Graduation is a great time to take stock of your current situation, and use that opportunity to introduce you to the main support teams.

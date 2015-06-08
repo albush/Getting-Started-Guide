@@ -8,7 +8,8 @@ The very first step in your customer journey is creating a cloud account with Ra
 
 * Ensure your primary contact's email address is valid. This is where all ticket updates and communications will be sent
 * Whitelist 'rackspace.com' and 'rackspacecloud.com' to ensure delivery to your mailbox
-* Understand the [different account roles](https://community.rackspace.com/general/f/34/t/59).
+* Understand the [different account roles](https://community.rackspace.com/general/f/34/t/59)
+* Remember that only the "Primary Contact" will have access to the Cloud DNS & Mailgun control panels 
 * [Add your technical contact(s)](http://www.rackspace.com/knowledge_center/article/managing-role-based-access-control-rbac) to the account so that they can work with our support team when needed
 * Make sure their contact information is correct
 * Suggestion: [Setup a distribution list](https://community.rackspace.com/general/f/34/t/56) 'rackspace@yourdomain.com' for instance so all communication  is delivered to the correct team members
