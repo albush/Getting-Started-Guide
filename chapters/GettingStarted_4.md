@@ -42,6 +42,16 @@ We always recommend testing, but testing becomes more important as you scale up 
 
 The old saying is that the best offense is a good defense, so we highly recommend that you contact Rackspace early, as soon as you know about an upcoming event. This will allow us to work with you to develop a plan for addressing any issues that might come up. Let us know when the event is scheduled, who will be your primary point of contact, how to get in touch with that person, etc. The more we know ahead of time, the better. If anything does go wrong, call support immediately - we'll be much better able to address the issue if you're on the phone, than if we're trying to figure out who you are based on your angry tweet.
 
+## Scaling back after a high traffic event
+
+If you've just completed a high traffic event - congratulations! Hopefully everything went well. Likely you'll not need to continue on with the expanded infrastructure you've built for to accommodate the enhanced traffic; if you do, then you've just had a very successful event. If you've followed our [guides for scaling up](https://community.rackspace.com/products/f/54/t/1009), you can follow them in reverse to scale back down. We recommend staggering the scale down, so that you don't scale your app too low to handle your traffic. Begin by draining connections from one of the servers behind your load balancer at a time. When all connections are gone, you can remove that node, and delete the server. Test to see that your traffic is keeping up, and repeat until your architecture meets traffic demand.
+
+If you run into any issues, don't hesitate to contact support.
+
+### Lessons learned from the high traffic event
+
+We also recommend that you take the time to review the event, how your applications performed, and make any changes that might be necessary. If you found any unexpected bottlenecks or limitations, document and fix them. This might be an issue with the application itself, or it might be a problem escalating a support need to the correct stakeholders in time. Whatever the issue, identifying it, documenting it, and fixing it now will help you the next time out.  
+
 ## Next steps
 
 After the high traffic events are completed, it's time to scale back down for steady state traffic. We'll cover that, and more, in the next chapter.
