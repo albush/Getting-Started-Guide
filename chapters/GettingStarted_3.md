@@ -1,4 +1,4 @@
-*We recently asked our [Cloud Launch Team](http://www.rackspace.com/blog/an-insiders-look-at-the-cloud-launch-team/) to provide us with a checklist of all of the most pertinent information that they try to convey to their customers. This article represents just one of [seven milestones](getting_started_master_article.md) identified by the Launch Team.*
+
 
 # Milestone 3:  Launch on Rackspace
 
@@ -33,6 +33,6 @@ Once everything is tested, it's time for launch. The actual switch will vary bas
 * Verify all systems are still in production
 * Immediately contact Rackspace Support if anything is not working.
 
+## Next steps
 
-
-[<< 7 Customer Milestones](getting_started_master_article.md) | [Milestone 4 - High traffic events >>](GettingStarted_4.md)
+For most customers, the next step is to continue along in a steady state; business as usual. For other customers the next step involves preparing for a high traffic event - a seasonal or marketing related spike in site visitors. For those customers we have some specific advice for a successful high traffic event in [chapter 4](../chapters/GettingStarted_1.md); for everyone else, we have a steady state guide in [chapter 5](../chapters/GettingStarted_1.md).

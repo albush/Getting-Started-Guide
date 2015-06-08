@@ -1,4 +1,4 @@
-*We recently asked our [Cloud Launch Team](http://www.rackspace.com/blog/an-insiders-look-at-the-cloud-launch-team/) to provide us with a checklist of all of the most pertinent information that they try to convey to their customers. This article represents just one of [seven milestones](getting_started_master_article.md) identified by the Launch Team.*
+
 
 # Milestone 2: Building your application on Rackspace
 
@@ -57,17 +57,17 @@ Security needs to happen at every level. Make sure to take the time to secure
 * Keep up to date with security patches
 * Filter out malicious traffic to your sites with tools like [CloudFlare](https://www.cloudflare.com/) or [Incapsula](https://www.incapsula.com/)
 
----
 
-Just as important as beginning or migrating your app to Rackspace is protecting that app with a solid backup and monitoring plan.
+## Backups & Monitoring
 
-## Backups
+Just as important as beginning or migrating your app to Rackspace is protecting that app with a solid backup and monitoring plan.  
 
+### Backups
 Backups are important if you need to restore your site should a server fail for any reason. There are many ways to backup your site and content. We recommend using a combination of [server images](http://www.rackspace.com/knowledge_center/article/create-an-image-of-a-server-and-restore-a-server-from-a-saved-image), file-level [differential backups](http://www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-create-a-backup-0), and [configuration management](https://developer.rackspace.com/blog/devops-automation-series-images-vs-config-management/) to achieve a robust, comprehensive [backup strategy](http://www.rackspace.com/blog/backup-strategies-for-cloud-web-apps-google-hangout-recap/).
 
 We recommend that you use [Cloud Backup](http://www.rackspace.com/cloud/backup) on the following directories:
 
-### Linux
+#### Linux
 
 * Web/App servers: Verify/configure backup jobs for your Web/App servers /home /root /etc /var/www
 * Database servers: Verify/configure Database backups (frequent backups and long retention are recommended)
@@ -76,12 +76,12 @@ We recommend that you use [Cloud Backup](http://www.rackspace.com/cloud/backup) 
   * /etc
   * /var/lib/mysqlbackup (For servers with a mySQL database. Managed Operations customers automatically dump the db to this location. Managed Infrastructure customers can configure the same backup using [Holland](https://community.rackspace.com/products/f/54/t/1638).)
 
-### Windows
+#### Windows
 
 * Verify/configure backup jobs for your Web/App servers C:\inetpub
 * Verify/configure Database backups (the location you are dumping your database files) frequent backups and long retention are recommended
 
-### Backing up block storage
+#### Backing up block storage
 
 Block storage is a great way to increase the amount of storage space your application can use. Content in a storage volume can be included in Cloud Backup, and the volumes can also be saved as image snapshots. If you're using Cloud Block Storage, please check and double check that everything is backed up and configured to resume in the event of a reboot.
 
@@ -97,4 +97,6 @@ Monitoring can alert you if your site becomes non-responsive.  Customers with ou
 * URL Check: [Add a Cloud Monitoring check](http://www.rackspace.com/knowledge_center/article/creating-a-monitoring-check-using-the-cloud-control-panel) for your site's URL to ensure your site is responding
 * New Relic: Sign up for a free New Relic account at http://newrelic.com/rackspace Install New Relic's server and application monitoring agents on your cloud servers
 
-[<< 7 Customer Milestones](getting_started_master_article.md) | [Milestone 3 - Building your application on Rackspace >>](GettingStarted_3.md)
+## Next steps
+
+The next 3 milestones can vary greatly from customer to customer. Some customers go straight from opening an account to business as usual in immediate succession. Others have additional demands - high traffic events, or new feature launches, for example - that expand and prolong these milestones. In the next three chapters we will outline the process of [switching public traffic to Rackspace](../chapters/GettingStarted_1.md), [scaling for high traffic events](../chapters/GettingStarted_1.md), and [resuming steady state operations](../chapters/GettingStarted_1.md).

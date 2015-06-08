@@ -1,6 +1,6 @@
-*We recently asked our [Cloud Launch Team](http://www.rackspace.com/blog/an-insiders-look-at-the-cloud-launch-team/) to provide us with a checklist of all of the most pertinent information that they try to convey to their customers. This article represents just one of [seven milestones](getting_started_master_article.md) identified by the Launch Team.*
 
-# Milestone 7: 7 - Graduation to main support
+
+# Milestone 7: Graduation to main support
 
 After the first 60 days, you will graduate from our Cloud Launch Program. Our Launch Managers will hand you off to our main support and account teams, which will continue to work with you as long as you are our customer.
 
@@ -14,6 +14,3 @@ Make sure there are URL checks for all of your primary domains. Make sure you kn
 
 * Web servers, DB servers, CBS,etc.
 * Remember, a plan is just a hunch unless you test it. Run a fire drill to practice getting your app back online in the event of an event or a maintenance window.
-
-
-[<< 7 Customer Milestones](getting_started_master_article.md)
