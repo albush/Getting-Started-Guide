@@ -19,3 +19,5 @@
 <<[chapters/GettingStarted_6.md]
 
 <<[chapters/GettingStarted_7.md]
+
+<<[includes/thanks.md]

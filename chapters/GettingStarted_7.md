@@ -13,4 +13,3 @@ Make sure there are URL checks for all of your primary domains. Make sure you kn
 ## Complete full Backups Review
 
 * Web servers, DB servers, CBS,etc.
-* Remember, a plan is just a hunch unless you test it. Run a fire drill to practice getting your app back online in the event of an event or a maintenance window.
