@@ -7,3 +7,5 @@ This publication is made possible due to the hard work of (among many others) th
 * The Rackspace Cloud Launch Team
 * The Rackspace Community Team
 * Drew Cox
+* Allison Henslee
+* Nathan Guerrero

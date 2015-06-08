@@ -1,8 +1,10 @@
 # 7 Milestones: Getting started with Rackspace Cloud
 
+
 <<[includes/introduction.md]
 
-<!--TOC max2-->
+## Table of Contents
+<!--TOC max1-->
 
 *An electronic version of this document is available at [community.rackspace.com](https://community.rackspace.com).*
 
