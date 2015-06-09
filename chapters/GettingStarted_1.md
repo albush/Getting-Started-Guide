@@ -28,6 +28,7 @@ We invite you to join a call with one of our [Launch Managers](http://www.racksp
 * Security Testing: network access, user access, cryptographic controls, patching, etc.
 * Availability Management: monitoring, backups.
 
+
 ## Next steps
 
 In the next chapter we will discuss best practices for migrating your application to Rackspace, or building it here from scratch.

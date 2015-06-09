@@ -1,4 +1,5 @@
-# 7 Milestones: Getting started with Rackspace Cloud
+# Getting started with Rackspace Cloud:
+#### Seven milestones for your first 2 months as a Rackspace customer
 
 
 <<[includes/introduction.md]
@@ -8,7 +9,7 @@
 <<[includes/tldr.md]
 
 ## Table of Contents
-<!--TOC max1-->
+<!--TOC max2-->
 
 *An electronic version of this document is available at [community.rackspace.com](https://community.rackspace.com).*
 
