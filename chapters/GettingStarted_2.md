@@ -4,10 +4,14 @@
 
 After you've signed up and spoken with our Launch Team, you'll be ready to jump in and start building your application. Here are a few resources that might be helpful:
 
-## Control Panel  
+## Control panel  
 
 * [Cloud Control Panel](http://www.rackspace.com/knowledge_center/article/introducing-the-rackspace-cloud-control-panel) - This is your control panel to manage your cloud infrastructure.
 * [Use Role Based Access Control](http://www.rackspace.com/knowledge_center/article/overview-role-based-access-control-rbac) (RBAC) to allow the correct stakeholder access to only the services he or she needs to access.
+
+## Get a head start with Cloud Orchestration
+
+If you are building an application from scratch, you might want to try [Cloud Orchestration](http://www.rackspace.com/blog/cloud-orchestration-automating-deployments-of-full-stack-configurations/). The stacks offered in Cloud Orchestration can help you get your application up and running much faster than building from scratch. Orchestration stacks range from single server setups (LAMP Stack) to complex, mulit-server, configurations (for example a [multi-server WordPress stack](http://www.rackspace.com/knowledge_center/article/deploy-wordpress-packages-by-using-rackspace-cloud-orchestration)). 
 
 
 ## Migration assistance
@@ -83,7 +87,7 @@ We recommend that you use [Cloud Backup](http://www.rackspace.com/cloud/backup) 
 
 #### Backing up block storage
 
-Block storage is a great way to increase the amount of storage space your application can use. Content in a storage volume can be included in Cloud Backup, and the volumes can also be saved as image snapshots. If you're using Cloud Block Storage, please check and double check that everything is backed up and configured to resume in the event of a reboot.
+Block storage is a great way to increase the amount of storage space your application can use. You can include block storage in a Cloud Backup job; you can also save the volumes as image snapshots. If you're using Cloud Block Storage, please check and double check that backed up everything, and that you have configured to resume in the event of a reboot.
 
 * Verify/configure backup of any Cloud Block Storage volumes.
 * Verify that your attached [Cloud Block Storage volumes reconnect after reboot](https://community.rackspace.com/products/f/54/t/4319).

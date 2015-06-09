@@ -1,5 +1,5 @@
 
-# Milestone 5:  Steady State
+# Milestone 5:  Steady state
 
 At milestone 5, we've reached the point where you are completely up and running on Rackspace. For many customers, this milestone occurs immediately after going live. For others, it's after one or more high traffic events. For others still, continually fluctuating traffic *is* steady state. Whenever this milestone occurs for you, there are some additional actions we recommend taking to make sure everything runs smoothly for you for as long as you are at Rackspace.
 

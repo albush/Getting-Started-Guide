@@ -14,9 +14,9 @@ A little bit of planning goes a long way, so make sure you lower your TTLs and u
 Now it's time to test, test, test. Does everything work as planned? What's different than your current host? Hopefully it's better, but if not, what needs to be changed? Test, iterate, and test some more until you're ready to launch.
 
 
-## Launch Day
+## Launch day
 
-Once everything is tested, it's time for launch. The actual switch will vary based on your current DNS host, so check with them. Of course we encourage you to use Rackspace Cloud DNS (either as a primary or backup DNS provider), but you do not need to host your DNS with us.
+Once everything is tested, it's time for launch. The actual switch will vary based on your current DNS host, so check with them. We encourage you to use Rackspace Cloud DNS (either as a primary or backup DNS provider), but you do not need to host your DNS with us.
 
 * Determine exactly what will be switched and backup your current DNS configuration. Make sure you get all components.
 * If you're switching all of your DNS hosting, make sure your email and other systems configurations have been moved.
@@ -28,7 +28,7 @@ Once everything is tested, it's time for launch. The actual switch will vary bas
 4. Move your site to Rackspace.
 5. At your domain registrar, update your nameservers to 'dns1.stabletransit.com' & 'dns2.stabletransit.com' - **Once this step completes (5 minutes to 48 hours depending on DNS host) anyone visiting your domain will be directed to the server(s) at Rackspace. Make sure to do this step last, when you are ready to send traffic to Rackspace.**
 
-## Post Launch
+## Post-launch
 
 * Verify all systems are still in production.
 * Immediately contact Rackspace Support if anything is not working.

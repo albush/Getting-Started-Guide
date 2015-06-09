@@ -4,7 +4,7 @@
 
 For some customers, launching a site is only the first leg of the race, not the finish line.For some customers, the goal is a major event with publicity of some sort driving traffic. This might be their launch date as it occurs when they point their DNS; For others it might occur days or weeks later, corresponding with an episode of [Shark Tank](http://www.rackspace.com/content/2015/04/20/surviving-the-shark-tank-effect-solving-for-high-traffic-events/), a press release or some other kind of announcement. Whenever your event happens, we want you to succeed. Here are a few tips and tricks we've collected.
 
-## Added gurantees for high traffic events
+## Added guarantees for high traffic events
 
 We offer an [additional service level guarantee](http://www.rackspace.com/knowledge_center/article/managed-cloud-service-levels-faq#guarantees) for our Managed Operations service level customers that notify us in advance of their high traffic event. This is only available for our Managed Operations service level customers, and does have a few restrictions, including advanced notice and code freezes. Contact your account team if you're interested in this advanced SLA.
 
@@ -22,7 +22,7 @@ We offer an [additional service level guarantee](http://www.rackspace.com/knowle
 
 Our most successful high traffic event customers will scale their application from a single server to multiple servers. Here are some additional tips on how to achieve the scale.
 
-### Web and App tier
+### Web and app tier
 
 * Learn about the "[Seed Config](http://www.rackspace.com/blog/fundamentals-of-cloud-architecture-the-seed-config-video/)" - our architecture recommendation for a scale-ready cloud application.
 * Once you have the Seed Config in place, [start scaling horizontally with additional app and web servers](https://community.rackspace.com/products/f/54/t/1009).  

@@ -2,7 +2,7 @@
 
 # Milestone 1: Welcome to Rackspace!
 
-The very first step in your customer journey is creating a cloud account with Rackspace. We try to contact everyone of our new customers, personally, to welcome them to Rackspace, and provide immediate assistance to those that need it, so make sure that the contact information you provide is accurate. We also recommend that you take the time to speak with one of our Launch Managers to discuss your plans, and work with them to meet your goals.
+The very first step in your customer journey is creating a cloud account with Rackspace. We try to contact everyone of our new customers, personally, to welcome them to Rackspace, and give immediate assistance to those that need it, so make sure that the contact information you provide is accurate. We also recommend that you take the time to speak with one of our Launch Managers to discuss your plans, and work with them to meet your goals.
 
 ## Account activation tips
 
@@ -16,7 +16,7 @@ The very first step in your customer journey is creating a cloud account with Ra
 
 ## Initial call with a launch manager (strongly recommended)
 
-We invite you to join a call with one of our [Launch Managers](http://www.rackspace.com/blog/questions-about-the-cloud-contact-the-cloud-launch-team/). They are available to all of our customers for the first 60 days after your account is created, free of charge. During an initial call, the Launch Managers will work with you to discover the following (among other things):
+We invite you to join a call with one of our [Launch Managers](http://www.rackspace.com/blog/questions-about-the-cloud-contact-the-cloud-launch-team/). They are available to all of our customers for the first 60 days at Rackspace, free of charge. During an initial call, the Launch Managers will work with you to discover the following (among other things):
 
 * Service Strategy: learn about your business, support expectations, end user experience.
 * Demand Management: learn about your traffic patterns of business, website activity, hosting priorities.
