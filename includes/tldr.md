@@ -1,0 +1,5 @@
+This guide can be summed up as follows:
+
+1. **Rackers want to work with you, and see your success.** It's what we do. We want you to succeed, and we'll work with you to make that happen. Our Rackers are available 24x7x365 to answer your questions and provide the guidance and support you need to get started and meet your goals.
+2. **For best results, architect a scalable, redundant application.** Our most successful customers have one thing in common: they architect their application to avoid single points of failure, and to be able to scale quickly. Your application is your business; it makes you money. You need to protect that asset by architecting redundancy and scalability into the application.
+3. **Test. A lot.** Anything you try is just a hunch until you've tested it. Do you know how many visitors your site's current configuration can support? Shouldn't you? Test for benchmarks; test for as much traffic as you can ever imagine receiving; test for 5 times that. The more you test, the better you'll be able to keep your app online. 

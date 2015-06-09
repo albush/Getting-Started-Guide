@@ -3,6 +3,10 @@
 
 <<[includes/introduction.md]
 
+## TL;DR
+
+<<[includes/tldr.md]
+
 ## Table of Contents
 <!--TOC max1-->
 

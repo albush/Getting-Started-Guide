@@ -1,7 +1,7 @@
 
 # Milestone 5:  Steady State
 
-At milestone 5, we've reached the point where the customer is completely up and running on Rackspace. For many customers, this milestone occurs immediately after going live. For others, it's after one or more high traffic events. For others still, continually fluctuating traffic *is* steady state. Whenever this milestone occurs for you, there are some additional actions we recommend taking to make sure everything runs smoothly for you for as long as you are at Rackspace.
+At milestone 5, we've reached the point where you are completely up and running on Rackspace. For many customers, this milestone occurs immediately after going live. For others, it's after one or more high traffic events. For others still, continually fluctuating traffic *is* steady state. Whenever this milestone occurs for you, there are some additional actions we recommend taking to make sure everything runs smoothly for you for as long as you are at Rackspace.
 
 ## Steady state maintenance
 
@@ -11,9 +11,9 @@ After the relative chaos of migrating, launching, and a possible high traffic ev
 
 Help us stay in touch when you need support by keeping your contacts up to date. We won't use them to send marketing email, we'll just use them to contact the right people to get you the support you need.
 
-* [Help us help you get the most out of your support interactions](https://community.rackspace.com/general/f/34/t/4677)
-* [Give additional team members access](https://community.rackspace.com/products/f/54/t/4551)
-* Give those additional team members the correct [roles](https://community.rackspace.com/general/f/34/t/59) and [access](https://www.rackspace.com/knowledge_center/article/overview-role-based-access-control-rbac)
+* [Help us help you get the most out of your support interactions](https://community.rackspace.com/general/f/34/t/4677).
+* [Give additional team members access](https://community.rackspace.com/products/f/54/t/4551).
+* Give those additional team members the correct [roles](https://community.rackspace.com/general/f/34/t/59) and [access](https://www.rackspace.com/knowledge_center/article/overview-role-based-access-control-rbac).
 
 
 ### Benchmarking
@@ -27,7 +27,7 @@ Daily images probably aren't needed anymore. Daily images are great for hedging 
 Do you have the backups you need? If you had to build from scratch, using only your latest backup, how much data would you lose? Would that amount of data loss be acceptable? Do your backups cover everything you need to backup? Are you backing up too much, and wasting time, space, and money by doing so?  
 These are tough questions that you have to ask yourself. We recommend taking the time to go over all of these questions so that you can best recover in the event of an issue.
 
-Again, we recommend using a combination of [server images](http://www.rackspace.com/knowledge_center/article/create-an-image-of-a-server-and-restore-a-server-from-a-saved-image), file-level [differential backups](http://www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-create-a-backup-0), and [configuration management](https://developer.rackspace.com/blog/devops-automation-series-images-vs-config-management/) to achieve a robust, comprehensive [backup strategy](http://www.rackspace.com/blog/backup-strategies-for-cloud-web-apps-google-hangout-recap/).
+Again, we recommend using a combination of [server images](http://www.rackspace.com/knowledge_center/article/create-an-image-of-a-server-and-restore-a-server-from-a-saved-image), file-level [differential backups](http://www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-create-a-backup-0), and [configuration management](https://developer.rackspace.com/blog/devops-automation-series-images-vs-config-management/) to achieve a robust, comprehensive [backup strategy](http://www.rackspace.com/blog/backup-strategies-for-cloud-web-apps-google-hangout-recap/). Now that we have some images and backups, it's time to make sure they do what we need them to.
 
 ### Fire Drills
 

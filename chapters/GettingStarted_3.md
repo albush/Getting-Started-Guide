@@ -23,14 +23,14 @@ Once everything is tested, it's time for launch. The actual switch will vary bas
 
 ### How to configure Rackspace DNS for Rackspace Cloud
 
-1. In your [MyCloud control panel](https://mycloud.rackspace.com), add your domain and [copy your existing records](http://www.rackspace.com/knowledge_center/article/creating-dns-records-for-cloud-servers-with-the-control-panel)
-3. Ensure your domain's A record is pointing to your cloud load balancer
-4. Move your site to Rackspace
+1. In your [MyCloud control panel](https://mycloud.rackspace.com), add your domain and [copy your existing records](http://www.rackspace.com/knowledge_center/article/creating-dns-records-for-cloud-servers-with-the-control-panel).
+3. Ensure your domain's A record is pointing to your cloud load balancer.
+4. Move your site to Rackspace.
 5. At your domain registrar, update your nameservers to 'dns1.stabletransit.com' & 'dns2.stabletransit.com' - **Once this step completes (5 minutes to 48 hours depending on DNS host) anyone visiting your domain will be directed to the server(s) at Rackspace. Make sure to do this step last, when you are ready to send traffic to Rackspace.**
 
 ## Post Launch
 
-* Verify all systems are still in production
+* Verify all systems are still in production.
 * Immediately contact Rackspace Support if anything is not working.
 
 ## Next steps
