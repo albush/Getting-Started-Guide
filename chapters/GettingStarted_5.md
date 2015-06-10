@@ -54,6 +54,6 @@ Your next milestone will be the half-way point in your time with the Launch Team
 [6]: http://www.rackspace.com/knowledge_center/article/create-an-image-of-a-server-and-restore-a-server-from-a-saved-image
 [7]: http://www.rackspace.com/knowledge_center/article/rackspace-cloud-backup-create-a-backup-0
 [8]: https://developer.rackspace.com/blog/devops-automation-series-images-vs-config-management/
-[9]: http://www.rackspace.com/blog/backup-strategies-for-cloud-web-apps-google-hangout-recap/
+[9]: http://www.rackspace.com/blog/backup-strategies-for-cloud-web-apps-google-hangout-recap/?cm_mmc=community-_-activation-_-gsg-_-links
 [10]: https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey
 [11]: https://community.rackspace.com/products/f/54/t/4319

@@ -5,8 +5,8 @@ This guide is long. If you read the associated content, it's even longer. The th
 3. **Test. A lot.** Anything you try is just a hunch until you've tested it. Do you know how many visitors your site's current configuration can support? Shouldn't you? Test for [benchmarks][4]; [load test][5] for as much traffic as you can ever imagine receiving; test for 5 times that. The more you test - and iterate off of the test results - [the more resilient your application][6] can be.
 
 
-[1]: http://www.rackspace.com/blog/tag/cloud-launch-team/
-[2]: http://www.rackspace.com/support
+[1]: http://www.rackspace.com/blog/tag/cloud-launch-team/?cm_mmc=community-_-activation-_-gsg-_-links
+[2]: http://www.rackspace.com/support?cm_mmc=community-_-activation-_-gsg-_-links
 [3]: http://www.rackspace.com/blog/fundamentals-of-cloud-architecture-the-seed-config-video/
 [4]: https://youtu.be/zhi8E15_yEQ
 [5]: http://www.rackspace.com/blog/load-testing-your-site-with-load-impact-google-hangout-recap/

@@ -49,12 +49,12 @@ For our technical documentation, see our [API Documentation][10]. If you really 
 
 
 [1]: http://support.rackspace.com/
-[2]: http://www.rackspace.com/cloud/compare-service-levels
+[2]: http://www.rackspace.com/cloud/compare-service-levels?cm_mmc=community-_-activation-_-gsg-_-links
 [3]: https://www.rackspace.com/knowledge_center/article/cloud-servers-with-managed-operations-support-for-linux
 [4]: https://www.rackspace.com/knowledge_center/article/cloud-servers-with-managed-operations-support-for-windows
 [5]: https://community.rackspace.com/products/f/25/t/4891
-[6]: http://www.rackspace.com/devops
+[6]: http://www.rackspace.com/devops?cm_mmc=community-_-activation-_-gsg-_-links
 [7]: http://support.rackspace.com/
-[8]: https://community.rackspace.com/
-[9]: http://www.rackspace.com/knowledge_center/
-[10]: http://docs.rackspace.com/
+[8]: https://community.rackspace.com/?cm_mmc=community-_-activation-_-gsg-_-links
+[9]: http://www.rackspace.com/knowledge_center/?cm_mmc=community-_-activation-_-gsg-_-links
+[10]: http://docs.rackspace.com/?cm_mmc=community-_-activation-_-gsg-_-links

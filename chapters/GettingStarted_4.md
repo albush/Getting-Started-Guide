@@ -85,11 +85,11 @@ Whether you've just migrated and launched, or completed the biggest event of you
 [1]: http://www.rackspace.com/content/2015/04/20/surviving-the-shark-tank-effect-solving-for-high-traffic-events/
 [2]: http://www.rackspace.com/knowledge_center/article/managed-cloud-service-levels-faq#guarantees
 [3]: https://community.rackspace.com/products/f/54/t/4319
-[4]: http://www.rackspace.com/blog/fundamentals-of-cloud-architecture-the-seed-config-video/
+[4]: http://www.rackspace.com/blog/fundamentals-of-cloud-architecture-the-seed-config-video/?cm_mmc=community-_-activation-_-gsg-_-links
 [5]: https://community.rackspace.com/products/f/54/t/1009
 [6]: https://www.rackspace.com/knowledge_center/article/database-replication-with-cloud-databases
 [7]: https://community.rackspace.com/community_central/b/officehours/archive/2014/11/24/office-hours-episode-48-scaleable-databases-q-amp-a-with-scalearc-3-20-2014
-[8]: http://www.rackspace.com/blog/preparing-ddpyoga-com-for-the-shark-tank-effect/
+[8]: http://www.rackspace.com/blog/preparing-ddpyoga-com-for-the-shark-tank-effect/?cm_mmc=community-_-activation-_-gsg-_-links
 [9]: http://www.rackspace.com/blog/load-testing-your-site-with-load-impact-google-hangout-recap/
 [10]: https://loadimpact.com/
 [11]: http://loader.io/

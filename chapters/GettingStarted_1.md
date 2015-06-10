@@ -35,8 +35,8 @@ In the next chapter we will discuss best practices for migrating your applicatio
 [1]: https://community.rackspace.com/general/f/34/t/59
 [2]: http://www.rackspace.com/knowledge_center/article/managing-role-based-access-control-rbac
 [3]: https://community.rackspace.com/general/f/34/t/56
-[4]: http://www.rackspace.com/blog/questions-about-the-cloud-contact-the-cloud-launch-team/
+[4]: http://www.rackspace.com/blog/questions-about-the-cloud-contact-the-cloud-launch-team/?cm_mmc=community-_-activation-_-gsg-_-links
 [5]: http://www.rackspace.com/knowledge_center/product-faq/cloud-load-balancers
-[6]: http://www.rackspace.com/blog/pillars-of-cloudiness-no-3-scaling-horizontally/
+[6]: http://www.rackspace.com/blog/pillars-of-cloudiness-no-3-scaling-horizontally/?cm_mmc=community-_-activation-_-gsg-_-links
 [7]: http://www.rackspace.com/blog/cloud-modularity-google-hangout-recap/
 [8]: http://www.rackspace.com/blog/tag/load-testing/

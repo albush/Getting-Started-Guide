@@ -104,20 +104,20 @@ The next 3 milestones can vary greatly from customer to customer. Some customers
 
 [1]: http://www.rackspace.com/knowledge_center/article/introducing-the-rackspace-cloud-control-panel
 [2]: http://www.rackspace.com/knowledge_center/article/overview-role-based-access-control-rbac
-[3]: http://www.rackspace.com/blog/cloud-orchestration-automating-deployments-of-full-stack-configurations/
+[3]: http://www.rackspace.com/blog/cloud-orchestration-automating-deployments-of-full-stack-configurations/?cm_mmc=community-_-activation-_-gsg-_-links
 [4]: http://www.rackspace.com/knowledge_center/article/deploy-wordpress-packages-by-using-rackspace-cloud-orchestration
-[5]: https://www.rackspace.com/migration
+[5]: https://www.rackspace.com/migration?cm_mmc=community-_-activation-_-gsg-_-links
 [6]: http://www.rackspace.com/knowledge_center/article/prepare-to-migrate-a-linux-server
 [7]: http://www.rackspace.com/knowledge_center/article/prepare-to-migrate-a-windows-server
 [8]: https://community.rackspace.com/products/f/54/t/4496
 [9]: http://www.rackspace.com/blog/fundamentals-of-cloud-architecture-the-seed-config-video/
-[10]: http://objectrocket.com/
+[10]: http://objectrocket.com/?cm_mmc=community-_-activation-_-gsg-_-links
 [11]: http://www.rackspace.com/knowledge_center/article/protection-against-and-recovery-from-host-server-down-hsd-issue
 [12]: http://www.rackspace.com/blog/pillars-of-cloudiness-no-3-scaling-horizontally/
-[13]: http://www.rackspace.com/blog/examining-horizontal-scaling-google-hangout-recap/
+[13]: http://www.rackspace.com/blog/examining-horizontal-scaling-google-hangout-recap/?cm_mmc=community-_-activation-_-gsg-_-links
 [14]: https://developer.rackspace.com/blog/using-message-queues-in-cloud-applications/
 [15]: http://www.rackspace.com/knowledge_center/article/configuring-mailgun-for-your-website
-[16]: https://www.rackspace.com/email-hosting
+[16]: https://www.rackspace.com/email-hosting?cm_mmc=community-_-activation-_-gsg-_-links
 [17]: http://www.rackspace.com/security/
 [18]: http://www.rackspace.com/knowledge_center/article/overview-role-based-access-control-rbac
 [19]: http://www.rackspace.com/knowledge_center/article/multi-factor-authentication-from-the-cloud-control-panel
