@@ -1,18 +1,16 @@
-
-
 # Milestone 4:  High traffic event
 
-For some customers, launching a site is only the first leg of the race, not the finish line.For some customers, the goal is a major event with publicity of some sort driving traffic. This might be their launch date as it occurs when they point their DNS; For others it might occur days or weeks later, corresponding with an episode of [Shark Tank](http://www.rackspace.com/content/2015/04/20/surviving-the-shark-tank-effect-solving-for-high-traffic-events/), a press release or some other kind of announcement. Whenever your event happens, we want you to succeed. Here are a few tips and tricks we've collected.
+For some customers, launching a site is only the first leg of the race, not the finish line.For some customers, the goal is a major event with publicity of some sort driving traffic. This might be their launch date as it occurs when they point their DNS; For others it might occur days or weeks later, corresponding with an episode of [Shark Tank][1], a press release or some other kind of announcement. Whenever your event happens, we want you to succeed. Here are a few tips and tricks we've collected.
 
 ## Added guarantees for high traffic events
 
-We offer an [additional service level guarantee](http://www.rackspace.com/knowledge_center/article/managed-cloud-service-levels-faq#guarantees) for our Managed Operations service level customers that notify us in advance of their high traffic event. This is only available for our Managed Operations service level customers, and does have a few restrictions, including advanced notice and code freezes. Contact your account team if you're interested in this advanced SLA.
+We offer an [additional service level guarantee][2] for our Managed Operations service level customers that notify us in advance of their high traffic event. This is only available for our Managed Operations service level customers, and does have a few restrictions, including advanced notice and code freezes. Contact your account team if you're interested in this advanced SLA.
 
 ## Be aware of possible issues that can occur during high traffic events & solutions to remedy
 
 * Over-saturation of traffic to Web01 from other web servers
 * Resource exhaustion & contention
-* [Reboot check](https://community.rackspace.com/products/f/54/t/4319)
+* [Reboot check][3]
 
 ## Create awareness of event in advance
 
@@ -24,15 +22,15 @@ Our most successful high traffic event customers will scale their application fr
 
 ### Web and app tier
 
-* Learn about the "[Seed Config](http://www.rackspace.com/blog/fundamentals-of-cloud-architecture-the-seed-config-video/)" - our architecture recommendation for a scale-ready cloud application.
-* Once you have the Seed Config in place, [start scaling horizontally with additional app and web servers](https://community.rackspace.com/products/f/54/t/1009).  
+* Learn about the "[Seed Config][4]" - our architecture recommendation for a scale-ready cloud application.
+* Once you have the Seed Config in place, [start scaling horizontally with additional app and web servers][5].  
 
 ### Data tier
 
 * Scale your databases and add replication - your database can be a significant bottleneck for your application. Since most transactions must pass through the database, consider scaling this tier both vertically and horizontally.
 * Adding additional compute resources to the primary server will allow you to process more data, faster. Adding replication provides your application with redundancy, and replicants can be used as a read-only version for faster data access.
-* Rackspace Cloud Databases can help with both the scaling and the [replication](https://www.rackspace.com/knowledge_center/article/database-replication-with-cloud-databases).
-* Consider using a [query caching layer](https://community.rackspace.com/community_central/b/officehours/archive/2014/11/24/office-hours-episode-48-scaleable-databases-q-amp-a-with-scalearc-3-20-2014) to [speed up the site and improve scalability](http://www.rackspace.com/blog/preparing-ddpyoga-com-for-the-shark-tank-effect/).
+* Rackspace Cloud Databases can help with both the scaling and the [replication][6].
+* Consider using a [query caching layer][7] to [speed up the site and improve scalability][8].
 
 ## Test, test, and test some more
 
@@ -50,14 +48,14 @@ Test your application's functionality at scale.
 
 Test your application's performance at scale.
 
-* Run a baseline test [load test](http://www.rackspace.com/blog/load-testing-your-site-with-load-impact-google-hangout-recap/) using [Load Impact](https://loadimpact.com/), [Loader.io](http://loader.io/), [Apica LoadTest,](https://www.apicasystem.com/) or another load testing service - you should know how your application works under normal conditions so you can better estimate how additional traffic will impact the app.
+* Run a baseline test [load test][9] using [Load Impact][10], [Loader.io][11], [Apica LoadTest,][12] or another load testing service - you should know how your application works under normal conditions so you can better estimate how additional traffic will impact the app.
 * Examine your test results and make appropriate changes to your configuration (adjust Apache MaxClients etc).
 * Run an additional load test after tuning your configuration to get an idea of how much traffic your site/app can handle.
 * GET vs POST testing - if your application is at all transactional, be sure that you load test the transactions, not just page loads.
 
 ## Optimizing
 
-* Serve static files from the [Rackspace CDN](http://www.rackspace.com/cloud/cdn-content-delivery-network) to [improve performance and load speeds](https://youtu.be/XVH7uVHBiE8)
+* Serve static files from the [Rackspace CDN][13] to [improve performance and load speeds][14]
 * Introduce one or more caching layers within your configuration
 * Use a third party tool such as CloudFlare or Incapsula to cache and optimize your web content at the DNS level
 
@@ -71,7 +69,7 @@ If you've just completed a high traffic event - congratulations! Hopefully every
 
 ### Scaling back after a high traffic event
 
-If you've followed our [guides for scaling up](https://community.rackspace.com/products/f/54/t/1009), you can follow them in reverse to scale back down. We recommend staggering the scale down, so that you don't scale your app too low to handle your traffic. Begin by draining connections from one of the servers behind your load balancer at a time. When all connections are gone, you can remove that node, and delete the server. Test to see that your traffic is keeping up, and repeat until your architecture meets traffic demand.
+If you've followed our [guides for scaling up][15], you can follow them in reverse to scale back down. We recommend staggering the scale down, so that you don't scale your app too low to handle your traffic. Begin by draining connections from one of the servers behind your load balancer at a time. When all connections are gone, you can remove that node, and delete the server. Test to see that your traffic is keeping up, and repeat until your architecture meets traffic demand.
 
 If you run into any issues, don't hesitate to contact support.
 
@@ -79,6 +77,23 @@ If you run into any issues, don't hesitate to contact support.
 
 We also recommend that you take the time to review the event, how your applications performed, and make any changes that might be necessary. If you found any unexpected bottlenecks or limitations, document and fix them. This might be an issue with the application itself, or it might be a problem escalating a support need to the correct stakeholders in time. Whatever the issue, identifying it, documenting it, and fixing it now will help you the next time out.  
 
-## Next steps
+### Next steps
 
 Whether you've just migrated and launched, or completed the biggest event of your life, it's time for steady state traffic. We'll cover that, and more, in the next chapter.
+
+
+[1]: http://www.rackspace.com/content/2015/04/20/surviving-the-shark-tank-effect-solving-for-high-traffic-events/
+[2]: http://www.rackspace.com/knowledge_center/article/managed-cloud-service-levels-faq#guarantees
+[3]: https://community.rackspace.com/products/f/54/t/4319
+[4]: http://www.rackspace.com/blog/fundamentals-of-cloud-architecture-the-seed-config-video/
+[5]: https://community.rackspace.com/products/f/54/t/1009
+[6]: https://www.rackspace.com/knowledge_center/article/database-replication-with-cloud-databases
+[7]: https://community.rackspace.com/community_central/b/officehours/archive/2014/11/24/office-hours-episode-48-scaleable-databases-q-amp-a-with-scalearc-3-20-2014
+[8]: http://www.rackspace.com/blog/preparing-ddpyoga-com-for-the-shark-tank-effect/
+[9]: http://www.rackspace.com/blog/load-testing-your-site-with-load-impact-google-hangout-recap/
+[10]: https://loadimpact.com/
+[11]: http://loader.io/
+[12]: https://www.apicasystem.com/
+[13]: http://www.rackspace.com/cloud/cdn-content-delivery-network
+[14]: https://youtu.be/XVH7uVHBiE8
+[15]: https://community.rackspace.com/products/f/54/t/1009
