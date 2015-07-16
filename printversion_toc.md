@@ -11,7 +11,7 @@
 # Table of Contents
 <<[includes/TOC.md]
 
-*An electronic version of this document is available at [community.rackspace.com](https://community.rackspace.com).*
+*An electronic version of this document is available at [community.rackspace.com](https://community.rackspace.com/products/f/54/t/5291).*
 
 <<[chapters/GettingStarted_1.md]
 

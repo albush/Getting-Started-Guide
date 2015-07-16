@@ -18,9 +18,9 @@ If your application is already live at another provider, we can potentially offe
 
 For those of you who want to take a DIY approach to migrating to Rackspace, we have the following guides available:
 
-* [Migrating a Linux server][6].
-* [Migrating a Windows server][7]
-.
+* [Tips for a Successful Migration to Rackspace - Part 1: Preparation and Design][6].
+* [Tips for a Successful Migration to Rackspace - Part 2: Implementation and Transition][7]
+
 ## Modularize your application
 
 We strongly recommend creating a modular application - it's one of the [5 Pillars of Cloudiness][8]. Modularizing your application can eliminate a single point of failure, and allow for significantly faster scaling if necessary. Here are a few tips for making a modular application.
@@ -107,8 +107,8 @@ The next 3 milestones can vary greatly from customer to customer. Some customers
 [3]: http://www.rackspace.com/blog/cloud-orchestration-automating-deployments-of-full-stack-configurations/?cm_mmc=community-_-activation-_-gsg-_-links
 [4]: http://www.rackspace.com/knowledge_center/article/deploy-wordpress-packages-by-using-rackspace-cloud-orchestration
 [5]: https://www.rackspace.com/migration?cm_mmc=community-_-activation-_-gsg-_-links
-[6]: http://www.rackspace.com/knowledge_center/article/prepare-to-migrate-a-linux-server
-[7]: http://www.rackspace.com/knowledge_center/article/prepare-to-migrate-a-windows-server
+[6]: https://community.rackspace.com/products/f/54/t/4687
+[7]: https://community.rackspace.com/products/f/54/t/5097
 [8]: https://community.rackspace.com/products/f/54/t/4496
 [9]: http://www.rackspace.com/blog/fundamentals-of-cloud-architecture-the-seed-config-video/
 [10]: http://objectrocket.com/?cm_mmc=community-_-activation-_-gsg-_-links
